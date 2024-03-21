@@ -13,13 +13,19 @@
 - 2020 TIRT全能機器人國際邀請賽 第三名
 - 111學年中和高中資訊學科能力競賽 - 第四名
 - 112學年中和高中資訊學科能力競賽 - 第五名
-- 112學年中和高中校內科展  - 電腦科學佳作
-- 112學年中和高中校內科展  - 工程學科一佳作
+- 112學年中和高中校內科展 - 電腦科學佳作
+- 112學年中和高中校內科展 - 工程學科一佳作
 - 智慧科技素養與程式設計創新應用競賽 - 第三名
 - 2023新北市FRC機器人新生盃 - 聯盟佳作
 - 師大第五屆AI智慧小車模擬競賽 - 聯盟第一
 
 ## 專業技能
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,discord,androidstudio,react)](https://skillicons.dev)
+
+![image](https://imgur.com/a/wYf6qiy)
+
 - Arduino程式設計
 - FRC程式設計
 - 感測器應用
