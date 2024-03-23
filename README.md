@@ -72,7 +72,7 @@
 ![image](https://raw.githubusercontent.com/yd-tw/yd-tw/main/img/website-about_me.png)
 
 ## 相關連結
-- 個人網站：https://yd-tw.github.io\
+- 個人網站：https://yd-tw.github.io \
     個人網站，上面有關於我的完整資訊 (網站尚在開發中)
-- 社群：https://instagram.com/codecat.tw\
+- 社群：https://instagram.com/codecat.tw \
     程式貓社群，包含各種程式專案、教學、新聞等資訊。
