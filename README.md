@@ -1,7 +1,16 @@
-# 楊光地
+<h1 align="center">楊光地</h1>
+
+## 介紹綱要
+- [個人介紹](#個人介紹) 生平與志向介紹，以及我的個性、學習經歷。
+- [檢定成績](#檢定成績) 展示各式檢定成績。如APCS、CPE等。
+- [競賽獲獎](#競賽獲獎) 得獎的各種競賽。如學科能力競賽、科展、FRC等。
+- [專業技能](#專業技能) 我熟悉的語言、框架、工具等介紹。
+- [參與組織](#參與組織) 介紹我參加的社團、團隊，以及擔任的職務。
+- [作品成果](#作品成果) 個人專案(Side project)的介紹與成果連結。
+- [相關連結](#相關連結) 社群、個人網站，以及撰寫的網路文章。
 
 ## 個人介紹
-一個來自新北市立中和高級中學的學生。
+我是楊光地
 
 ## 檢定成績
 - 大學程式設計先修檢測 - 四級
@@ -24,8 +33,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,discord,androidstudio,react)](https://skillicons.dev)
 
-![image](https://imgur.com/a/wYf6qiy)
-
 - Arduino程式設計
 - FRC程式設計
 - 感測器應用
@@ -46,6 +53,8 @@
 - 生活科技專題 - 擊劍比賽系統
 - 科展競賽 - 基於AI影像分析的貓咪情緒辨識
 - 個人網站 - 使用React與Github Page 搭建的網站
+
+![image](https://raw.githubusercontent.com/yd-tw/yd-tw/main/img/website-about_me.png)
 
 ## 相關連結
 - 網頁：https://yd-tw.github.io
