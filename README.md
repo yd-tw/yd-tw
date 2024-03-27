@@ -72,11 +72,11 @@
 ![image](https://raw.githubusercontent.com/yd-tw/yd-tw/main/img/website-about_me.png)
 
 ## 相關連結
-- Website：https://yd-tw.github.io \
+- Website：<https://yd-tw.github.io> \
     完整個人介紹，涵蓋部落格、專題發表、學習歷程。
-- Youtube：None \
+- Youtube：<https://www.youtube.com/@codecat.> \
     用簡單易懂的方式教授程式設計，涵蓋語法、專題、時事等。
-- Instagram：https://instagram.com/codecat.tw \
+- Instagram：<https://instagram.com/codecat.tw> \
     數十人追蹤的社群，涵蓋許多程式分享、專案介紹。
 - Discord：None \
     我創辦的程式設計交流互助平台，也給大家發佈專案的空間。
