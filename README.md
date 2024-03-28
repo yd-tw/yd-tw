@@ -69,6 +69,10 @@
 - 科展競賽 - 基於AI影像分析的貓咪情緒辨識
 - 個人網站 - 使用React與Github Page 搭建的網站
 
+
+https://github.com/yd-tw/yd-tw/assets/151503280/db150b48-96fc-4f97-9ad4-ca8868201469
+
+
 ![image](https://raw.githubusercontent.com/yd-tw/yd-tw/main/img/website-about_me.png)
 
 ## 相關連結
