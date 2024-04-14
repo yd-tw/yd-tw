@@ -40,23 +40,22 @@
 - 智慧科技素養與程式設計創新應用競賽 - 第三名
 - 2023新北市FRC機器人新生盃 - 聯盟佳作
 - 師大第五屆AI智慧小車模擬競賽 - 聯盟第一
+- 第十屆成大程式邀請賽出賽 - 全國41名
 
 ## 專業技能
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,discord,androidstudio,react)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=arduino,discord,androidstudio,react)
 
 - Arduino程式設計
 - FRC程式設計
-- 感測器應用
-- Git版本控制
 - PID控制器設計
 - AI影像分析
 - 競賽程式
 - 演算法分析
 
 ## 參與組織
-- 中和高中機器人校隊 FRC8569 - 程式組組長
+- 中和高中FRC機器人校隊 - 程式組組長
 - 中和高中機器人社 - 活動長
 - 中和高中資訊研究社 - 社員
 - 程式貓社群 - 計畫發起人
@@ -64,10 +63,10 @@
 
 ## 作品成果
 - Discord機器人 - 即時虛擬貓咪互動
-- 比賽改良 - 針對PBL題目重新設計的Arduino小車
+- 北科大PBL - 比賽小車重製
 - 生活科技專題 - 擊劍比賽系統
-- 科展競賽 - 基於AI影像分析的貓咪情緒辨識
-- 個人網站 - 使用React與Github Page 搭建的網站
+- 科展 - 基於AI影像分析的貓咪情緒辨識
+- 個人網站 - 使用Next.js搭建的個人網站
 
 ![image](https://raw.githubusercontent.com/yd-tw/yd-tw/main/img/website.gif)
 
