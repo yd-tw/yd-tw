@@ -68,8 +68,6 @@
 - 科展 - 基於AI影像分析的貓咪情緒辨識
 - 個人網站 - 使用Next.js搭建的個人網站
 
-![image](https://raw.githubusercontent.com/yd-tw/yd-tw/main/img/website.gif)
-
 ## 相關連結
 - Website：<https://yd-tw.github.io> \
     完整個人介紹，涵蓋部落格、專題發表、學習歷程。
