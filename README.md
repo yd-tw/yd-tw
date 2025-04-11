@@ -78,3 +78,5 @@
     數十人追蹤的社群，涵蓋許多程式分享、專案介紹。
 - Discord：None \
     我創辦的程式設計交流互助平台，也給大家發佈專案的空間。
+
+[![YD's GitHub stats](https://github-readme-stats.vercel.app/api?username=yd-tw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
