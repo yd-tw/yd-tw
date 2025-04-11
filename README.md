@@ -1,5 +1,7 @@
 <h1 align="center">楊光地</h1>
 
+<p> <img src="https://komarev.com/ghpvc/?username=yd-tw&label=Profile%20views&color=0e75b6&style=flat" alt="yd-tw" /> </p>
+
 ## 介紹綱要
 - [個人介紹](#個人介紹) 生平與志向介紹，以及我的資訊學習經歷。
 - [檢定成績](#檢定成績) 展示各式檢定成績。如APCS、CPE等。
